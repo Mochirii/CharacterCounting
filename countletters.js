@@ -10,3 +10,4 @@ function countLetters(charSpace) {
 return JSON.stringify(charMap,null,4)
 };
 console.log(countLetters("Lighthouse in the house"));
+
